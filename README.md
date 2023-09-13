@@ -59,8 +59,8 @@ This project is distributed under the MIT License. For more information, see the
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- E-posta: [örnek@email.com](mailto:ozturkmustafa174@hotmail.com)
-- GitHub: [GitHub Sayfası](https://github.com/CoddeLord)
+- E-posta: [ozturkmustafa174@hotmail.com](mailto:ozturkmustafa174@hotmail.com)
+- GitHub: [GitHub Profile](https://github.com/CoddeLord)
 
 ---
 
@@ -132,8 +132,8 @@ Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LICE
 
 Herhangi bir soru veya öneriniz varsa, lütfen iletişime geçmekten çekinmeyin:
 
-- E-posta: [örnek@email.com](mailto:ozturkmustafa174@hotmail.com)
-- GitHub: [GitHub Sayfası](https://github.com/CoddeLord)
+- E-posta: [ozturkmustafa174@hotmail.com](mailto:ozturkmustafa174@hotmail.com)
+- GitHub: [GitHub Profile](https://github.com/CoddeLord)
 
 ---
 
